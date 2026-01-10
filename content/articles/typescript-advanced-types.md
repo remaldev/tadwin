@@ -1,7 +1,7 @@
 ---
 title: "Advanced TypeScript Type Patterns"
 date: 2025-04-20
-type: blog
+type: articles
 description: "Master complex type manipulations in TypeScript"
 tags: [typescript, types, programming]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/92/windows-xp-wallpaper-bliss-4k-wallpaper.jpeg"

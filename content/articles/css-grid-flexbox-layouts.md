@@ -1,7 +1,7 @@
 ---
 title: "Modern CSS Layout with Grid and Flexbox"
 date: 2025-01-19
-type: blog
+type: articles
 description: "Create responsive layouts with modern CSS"
 tags: [css, layout, frontend]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/92/windows-xp-wallpaper-bliss-4k-wallpaper.jpeg"

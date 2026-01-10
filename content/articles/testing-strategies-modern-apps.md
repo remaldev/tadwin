@@ -1,7 +1,7 @@
 ---
 title: "Testing Strategies for Modern Applications"
 date: 2024-11-30
-type: blog
+type: articles
 description: "Comprehensive testing approaches for software quality"
 tags: [testing, quality, automation]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/41/stunning-4k-high-resolution-night-sky-wallpaper.jpg"

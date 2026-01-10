@@ -1,7 +1,7 @@
 ---
 title: "Designing Efficient GraphQL APIs"
 date: 2025-06-05
-type: blog
+type: articles
 description: "Build performant and maintainable GraphQL services"
 tags: [graphql, api, design]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/343/debian-linux-spiral-wallpaper-4k.jpg"

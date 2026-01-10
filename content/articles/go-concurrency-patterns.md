@@ -1,7 +1,7 @@
 ---
 title: "Concurrency Patterns in Go"
 date: 2025-02-28
-type: blog
+type: articles
 description: "Master goroutines and channels for concurrent programming"
 tags: [golang, concurrency, patterns]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/41/stunning-4k-high-resolution-night-sky-wallpaper.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Async Patterns in Modern JavaScript"
 date: 2025-11-15
-type: blog
+type: articles
 description: "Deep dive into asynchronous programming patterns"
 tags: [javascript, async, programming]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/343/debian-linux-spiral-wallpaper-4k.jpg"

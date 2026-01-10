@@ -1,7 +1,7 @@
 ---
 title: "Advanced Redis Caching Patterns"
 date: 2024-08-10
-type: blog
+type: articles
 description: "Optimize application performance with Redis"
 tags: [redis, caching, performance]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/41/stunning-4k-high-resolution-night-sky-wallpaper.jpg"

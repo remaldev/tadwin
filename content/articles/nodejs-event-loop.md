@@ -1,7 +1,7 @@
 ---
 title: "Deep Dive into Node.js Event Loop"
 date: 2024-09-22
-type: blog
+type: articles
 description: "Understanding the Node.js execution model"
 tags: [nodejs, javascript, internals]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/343/debian-linux-spiral-wallpaper-4k.jpg"
