@@ -2,7 +2,7 @@
 title: "Container Orchestration with Kubernetes"
 date: 2025-12-10
 modified: 2025-12-10
-type: blog
+type: articles
 description: "Deploy and manage containerized applications"
 tags: [kubernetes, docker, devops]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/41/stunning-4k-high-resolution-night-sky-wallpaper.jpg"

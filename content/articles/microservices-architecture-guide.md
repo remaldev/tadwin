@@ -1,7 +1,7 @@
 ---
 title: "Building Scalable Microservices Architecture"
 date: 2025-10-22
-type: blog
+type: articles
 description: "Complete guide to designing microservices"
 tags: [architecture, microservices, backend]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/41/stunning-4k-high-resolution-night-sky-wallpaper.jpg"

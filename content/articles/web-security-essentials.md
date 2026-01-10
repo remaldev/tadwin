@@ -1,7 +1,7 @@
 ---
 title: "Essential Web Security Practices for 2026"
 date: 2025-07-18
-type: blog
+type: articles
 description: "Protect your web applications from common vulnerabilities"
 tags: [security, web, best-practices]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/92/windows-xp-wallpaper-bliss-4k-wallpaper.jpeg"

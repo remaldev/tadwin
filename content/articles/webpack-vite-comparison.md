@@ -1,7 +1,7 @@
 ---
 title: "Webpack vs Vite: Modern Build Tools Comparison"
 date: 2024-06-18
-type: blog
+type: articles
 description: "Choosing the right build tool for your project"
 tags: [webpack, vite, build-tools]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/343/debian-linux-spiral-wallpaper-4k.jpg"

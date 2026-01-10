@@ -1,7 +1,7 @@
 ---
 title: "Principles of Distributed Systems Design"
 date: 2024-10-15
-type: blog
+type: articles
 description: "Building reliable distributed applications"
 tags: [distributed-systems, architecture, scalability]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/92/windows-xp-wallpaper-bliss-4k-wallpaper.jpeg"

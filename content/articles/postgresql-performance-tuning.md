@@ -1,7 +1,7 @@
 ---
 title: "PostgreSQL Performance Tuning Best Practices"
 date: 2025-08-30
-type: blog
+type: articles
 description: "Optimize your PostgreSQL database performance"
 tags: [postgresql, database, performance]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/343/debian-linux-spiral-wallpaper-4k.jpg"

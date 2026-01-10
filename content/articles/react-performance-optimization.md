@@ -1,7 +1,7 @@
 ---
 title: "React Performance Optimization Techniques"
 date: 2025-03-14
-type: blog
+type: articles
 description: "Speed up your React applications"
 tags: [react, performance, frontend]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/343/debian-linux-spiral-wallpaper-4k.jpg"

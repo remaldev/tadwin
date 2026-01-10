@@ -1,7 +1,7 @@
 ---
 title: "CI/CD Pipeline Best Practices for 2025"
 date: 2026-05-27
-type: blog
+type: articles
 description: "Build efficient continuous integration and deployment workflows - Build efficient continuous integration and deployment workflows"
 tags: [cicd, devops, automation]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/92/windows-xp-wallpaper-bliss-4k-wallpaper.jpeg"

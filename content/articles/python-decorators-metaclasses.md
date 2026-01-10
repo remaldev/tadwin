@@ -1,7 +1,7 @@
 ---
 title: "Python Decorators and Metaclasses Explained"
 date: 2024-07-05
-type: blog
+type: articles
 description: "Advanced Python metaprogramming techniques"
 tags: [python, metaprogramming, advanced]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/92/windows-xp-wallpaper-bliss-4k-wallpaper.jpeg"

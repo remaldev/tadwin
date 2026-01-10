@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Fundamentals for Engineers"
 date: 2025-05-12
-type: blog
+type: articles
 description: "Introduction to ML concepts and practical applications"
 tags: [machine-learning, ai, python]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/41/stunning-4k-high-resolution-night-sky-wallpaper.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Rust Memory Safety Without Garbage Collection"
 date: 2025-09-08
-type: blog
+type: articles
 description: "How Rust achieves memory safety at compile time"
 tags: [rust, systems, memory]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/92/windows-xp-wallpaper-bliss-4k-wallpaper.jpeg"

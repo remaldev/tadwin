@@ -1,7 +1,7 @@
 ---
 title: "Git Workflow Strategies for Teams"
 date: 2024-12-25
-type: blog
+type: articles
 description: "Effective branching and collaboration patterns"
 tags: [git, workflow, collaboration]
 image: "https://server.wallpaperalchemy.com/storage/wallpapers/343/debian-linux-spiral-wallpaper-4k.jpg"
